@@ -1,6 +1,6 @@
 ### Bader Saleh Alsadi
 
-- 👋 I'm a mobile developer.
+- 👋 Mobile Developer.
 - 🏠 I live in Yemen - Hardamout - Shibam,.
 - 🌱 I’m currently learning flutter framwork.
 - 🤔 I’m looking to help others with flutter stuff.
