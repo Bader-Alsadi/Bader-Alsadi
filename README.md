@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning flutter framwork.
 - 🤔 I’m looking to help others with flutter stuff.
 - 📫 How to reach me: Instagram: @b_alsadi_101.
-  <div align="center">
+  <div align="left">
   <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
   ![Ruby](https://img.shields.io/badge/-Ruby-b80000?style=flat-square&logo=ruby&logoColor=white)
@@ -19,12 +19,6 @@
   ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
   ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
   ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
-
-  <p align="center">
-    <a href="https://www.linkedin.com/in/ahmed-baqtyan-a247b218a" target="blank">
-      <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dephraiim" height="20" width="20" />
-    </a>
-  </p>
 </dev>
 
 <img src="https://github-readme-stats.vercel.app/api?username=Bader-Alsadi&count_private=true&show_icons=true&hide_title=true" />
