@@ -1,8 +1,7 @@
 ### Bader Saleh Alsadi
 
-- 👋 Mobile Developer.
+- 👋 RoR Developer | Mobile Developer.
 - 🏠 I live in Yemen - Hardamout - Shibam,.
-- 🌱 I’m currently learning flutter framwork.
 - 🤔 I’m looking to help others with flutter stuff.
 - 📫 How to reach me: Instagram: @b_alsadi_101.
   <div align="left">
